@@ -1,3 +1,3 @@
 # Clothing Store project
 
-Learn and thrive into React
+Learn and thrive in React
